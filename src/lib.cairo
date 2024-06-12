@@ -1,6 +1,4 @@
-fn hello() -> ByteArray {
-    "Hello, World!"
-}
+mod hello_world;
 
 #[cfg(test)]
 mod tests;
